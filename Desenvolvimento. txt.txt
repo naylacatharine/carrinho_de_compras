@@ -1,0 +1,3 @@
+Live Server
+
+Uma das extensões obrigatórias para quem trabalha com front-end através do VSCode. Sabe aquele projeto html, css e javascriptque quando precisamos ver as alterações que fizemos no código damos refresh no navegador para ver o resultado? Esse plugin cria um localhost da aplicação e toda alteração que é salva no projeto, é atualizada automaticamente, evitando dar refresh na página a cada modificação no código feita. Assim que instalado, é só clicar no botão Go Live e o localhost será aberto no seu navegador padrão.
